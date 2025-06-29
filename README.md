@@ -1,6 +1,6 @@
 Machine Learning Engineer experienced in applied AI, agent-based systems, MCP, and conversational pipelines. Deep expertise in building scalable cloud based APIs.
 
-#### Tech & Interests
+#### Tech
 - **AI/ML:** Python, OpenAI API (Assistants, Whisper), RAG, MCP, Agents, Instructor
 - **APIs:** FastAPI, FastMCP
 - **Infra:** AWS, Terraform, Docker, GPU optimization
