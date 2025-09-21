@@ -8,4 +8,4 @@ Machine Learning Engineer experienced in applied AI, agent-based systems, MCP, a
 
 Currently experimenting with smarter AI-driven systems and building the backend services that power them.
 
-🔗 [GitHub](https://github.com/jon-fox)
+🔗 [LinkedIn](https://www.linkedin.com/in/jonathan-fox-8b0a08b8/) · [GitHub](https://github.com/jon-fox)
