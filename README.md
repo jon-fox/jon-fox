@@ -7,3 +7,5 @@ Machine Learning Engineer experienced in applied AI, agent-based systems, MCP, a
 - **Interests:** intelligent agents, retrieval pipelines, scalable and resilient architectures, quantum computing
 
 Currently experimenting with smarter AI-driven systems and building the backend services that power them.
+
+![](https://komarev.com/ghpvc/?username=jon-fox)
